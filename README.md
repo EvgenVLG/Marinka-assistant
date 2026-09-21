@@ -44,3 +44,10 @@ Live providers, streaming voice, ESP32 endpoints and richer personality/session 
 ## Status
 
 Candidate, not yet a public release. Private conversations, recordings, family memory and provider credentials are excluded.
+
+## Related projects
+
+- [The Nest](https://github.com/EvgenVLG/the-nest-runtime) — environment authority Marinka can optionally connect to.
+- [Production Zoo](https://github.com/EvgenVLG/production-zoo) — AI engineering production workflow used to build and verify the ecosystem.
+
+Marinka remains runnable without either repository; the default fixture mode is intentionally standalone.
