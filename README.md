@@ -81,6 +81,9 @@ They are compared against the properties that matter:
 
 A tool is kept when it improves the system, not because it is new.
 
+The principles behind these choices are written up in
+[Engineering discipline](docs/engineering-discipline.md).
+
 ## Human technical ownership
 
 The human owner defines:
