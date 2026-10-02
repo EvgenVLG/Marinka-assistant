@@ -105,6 +105,12 @@ That case is documented publicly in [Production Zoo](https://github.com/EvgenVLG
 
 The versioned Nest client contract is in `contracts/nest-assistant-v1.json`.
 
+## October 2026 update
+
+Current private work has moved toward a server-centric voice pipeline with an ESP32-S3 edge audio endpoint, remote telemetry/control, signed A/B OTA recovery work, and long-form acoustic evaluation.
+
+See the [October 2026 R&D snapshot](docs/OCTOBER_2026_RND.md) for the current embedded, networking, observability, and verification work.
+
 ## Status
 
 This repository is a **working public beta v0.1 reference implementation**.
