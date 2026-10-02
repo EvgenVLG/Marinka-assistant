@@ -1,5 +1,7 @@
 # Marinka
 
+> [Engineering portfolio map](https://github.com/EvgenVLG/test-rep) - quick recruiter-facing index of the public projects and what each one demonstrates.
+
 **A portable personal AI assistant runtime.**
 
 **Public beta: v0.1**
